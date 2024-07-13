@@ -1,0 +1,89 @@
+.popular {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.mtitle {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3rem;
+}
+.poppalce {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.ppi {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+    
+}
+
+.poppdetail {
+  position: relative;
+}
+
+.poppdetail1 {
+    grid-column-start: 1;
+  grid-column-end: 4;
+}
+
+.poppdetail2 {
+    grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.poppdetail3 {
+    grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 3;
+  grid-row-end: 5;
+}
+.poppdetail4 {
+    grid-column-start: 1;
+  grid-column-end: 3;
+  /* grid-row-start: 6;
+  grid-row-end: 7; */
+}
+.poppdetail4 {
+    grid-column-start: 1;
+  grid-column-end: 2;
+  /* grid-row-start: 6;
+  grid-row-end: 7; */
+}
+
+.poppdetail7 {
+    grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row-start: 6;
+  grid-row-end: 8;
+}
+
+.poppdetail6 {
+    grid-column-start: 2;
+  grid-column-end: 4;
+  /* grid-row-start: 5;
+  grid-row-end: 7; */
+}
+
+.tlcon {
+  background-color: rgba(0, 0, 0, .3);
+  position: absolute;
+  padding: 10px 20px;
+  bottom: 20px;
+  color: white;
+}
+
+
+.ppt, .ppl {
+  margin: 0;
+}
+

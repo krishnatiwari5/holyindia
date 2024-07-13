@@ -1,0 +1,104 @@
+.footer {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.footercon {
+    background-color: rgba(70, 60, 60, .3);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 40px;
+}
+
+.ourd, .clinks, .contactinfo, .newsletter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 10rem;
+}
+
+.clinks {
+    align-items: center;
+}
+
+
+.flogo {
+    margin-right: 5px;
+}
+
+.llogo {
+    margin:  20px 0;
+    transform: scale(1.2);
+
+}
+
+.linklogo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ftitle {
+    margin: 0;
+    padding: 0;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+}
+
+.fcomcon {
+    display: flex;
+    align-items: center;
+
+}
+
+.footer h2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace
+}
+
+
+.newsletter input {
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    background-color: goldenrod;
+    border-color: white;
+    
+}
+
+.newsletter input:focus {
+    background-color: greenyellow;
+}
+
+.newsletter input::placeholder {
+    color: white;
+}
+
+.newsletter button {
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    background-color: gold;
+    border-color: white;
+   
+}
+
+.newsletter button:hover {
+    color: white;
+    background-color: greenyellow;
+}
+
+.copyright {
+    margin: 0;
+    text-align: center;
+    background-color: rgb(47, 45, 45);
+    color: white;
+    padding: 5px;
+}
+
+.copyright h3 {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}

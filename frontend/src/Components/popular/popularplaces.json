@@ -1,0 +1,34 @@
+[
+    {
+        "id" : "1",
+        "title" : "Kashi Vishwanath Temple",
+        "imgurl" : "../img/bg2.jpg",
+        "Location" : "Varansi, Uttar Pradesh"
+    },
+    {
+        "id" : "2",
+        "title" : "Kedarnath",
+        "imgurl" : "../img/kedarnath.jpg",
+        "Location" : "kedarnath, Uttarakhand"
+    },
+
+    {
+        "id" : "3",
+        "title" : "Golden Temple",
+        "imgurl" : "../img/goldentemple.jpg",
+        "Location" : "Amritsar, Punjab"
+    },
+    {
+        "id" : "4",
+        "title" : "Dwarika",
+        "imgurl" : "../img/dwarika.jpg",
+        "Location" : "Dwarika, Gujarat"
+    }
+    ,
+    {
+        "id" : "5",
+        "title" : "Vaishno Devi",
+        "imgurl" : "../img/vaishnodevi.jpg",
+        "Location" : "Katra, Jammu"
+    }
+]

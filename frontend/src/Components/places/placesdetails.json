@@ -1,0 +1,79 @@
+[
+    {
+        "id" : "1",
+        "title" : "Kashi Vishwanath Temple",
+        "imgurl" : "../img/bg2.jpg",
+        "Location" : "Varansi, Uttar Pradesh",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+    },
+    {
+        "id" : "2",
+        "title" : "Somnath",
+        "imgurl" : "../img/somnath.jpg",
+        "Location" : "Somnath, Gujarat",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Somnath_temple"
+    },
+    {
+        "id" : "3",
+        "title" : "Ujjain",
+        "imgurl" : "../img/ujjain.jpg",
+        "Location" : "Ujjain, Madhya Pradesh",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Mahakaleshwar_Jyotirlinga"
+    },
+    
+    {
+        "id" : "4",
+        "title" : "Kedarnath",
+        "imgurl" : "../img/kedarnath.jpg",
+        "Location" : "kedarnath, Uttarakhand",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Kedarnath"
+    },
+    {
+        "id" : "5",
+        "title" : "Badrinath",
+        "imgurl" : "../img/badrinath.jpg",
+        "Location" : "badrinath, Uttarakhand",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Badrinath"
+    },
+    {
+        "id" : "6",
+        "title" : "Rameshwarm",
+        "imgurl" : "../img/rameshwarm.jpg",
+        "Location" : "Rameshwarm, Tamil Nadu",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Rishikesh"
+    },
+    
+    {
+        "id" : "7",
+        "title" : "Rishikesh",
+        "imgurl" : "../img/rishikesh.jpg",
+        "Location" : "Rishikesh, Uttakhand",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+    },
+    {
+        "id" : "8",
+        "title" : "Tirupati",
+        "imgurl" : "../img/tirupati.jpg",
+        "Location" : "Tirupati, Tamil Nadu",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Venkateshvara_Temple"
+    },
+    {
+        "id" : "9",
+        "title" : "Praygraj",
+        "imgurl" : "../img/ujjain.jpg",
+        "Location" : "Praygraj, Uttar Pradesh",
+        "About" : "Varanasi also Banaras or Benares is a city on the Ganges river in the Bhojpur-Purvanchal region of India, that has a central place in the traditions of pilgrimage, death, and mourning in the Hindu world.",
+        "infourl" : "https://en.wikipedia.org/wiki/Allahabad"
+    }
+    
+
+]
+
